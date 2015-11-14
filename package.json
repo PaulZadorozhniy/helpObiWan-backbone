@@ -1,0 +1,22 @@
+{
+  "name": "obi-wan-backbone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulZadorozhniy/helpObiWan-backbone.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/PaulZadorozhniy/helpObiWan-backbone/issues"
+  },
+  "homepage": "https://github.com/PaulZadorozhniy/helpObiWan-backbone#readme",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "serve-static": "^1.10.0"
+  }
+}
