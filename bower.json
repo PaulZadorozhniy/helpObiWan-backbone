@@ -1,0 +1,13 @@
+{
+  "name": "helpObiWan-backbone",
+  "homepage": "https://github.com/PaulZadorozhniy/helpObiWan-backbone",
+  "authors": [
+    "Paul Zadorozhniy <paulzadorozhniy@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "dependencies": {
+    "backbone": "~1.2.3"
+  }
+}
