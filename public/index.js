@@ -13,7 +13,7 @@ require([
     'views/darkLordsListView',
     'views/obiWanLocation'
     ],
-    function($, _, B, DarkLordsListView, ObiWanLocation) {
+    function($, _, Backbone, DarkLordsListView, ObiWanLocation) {
 
         $(function() {
             new ObiWanLocation();
